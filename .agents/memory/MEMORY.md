@@ -1,0 +1,1 @@
+- [Expo project imports](expo-project-imports.md) — imported Expo apps need the workspace's standard Metro config and one icon package before doctor/build checks pass.
